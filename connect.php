@@ -1,5 +1,5 @@
 <?php
-  $conn=mysqli_connect("localhost","root","","warehouse");
+  $conn=mysqli_connect("localhost","root","","stock");
 
   
 ?>

@@ -1,0 +1,36 @@
+.right{
+height:50px;
+position:fixed;
+width:100%;
+z-index: 99;
+margin-left:auto;
+margin-right:auto;
+width:70%;
+background-color:#b0e0e6;
+}
+.tablezack{
+    background-color:white;
+    width: 1000%;
+    height: 100px;
+
+}
+.fixed-top{
+    left:1350px;
+}
+
+.textarea {
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
+
+input:focus{
+    border: transparent;
+ }
+
+ .navright {
+    right: 10px;
+
+    border: 3px solid green;
+  } 
